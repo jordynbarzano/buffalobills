@@ -1,0 +1,12 @@
+{
+  "name": "buffalobills-webapp",
+  "version": "1.0.0",
+  "description": "Simple Buffalo Bills themed web app",
+  "scripts": {
+    "start": "npx serve public"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.0.1"
+  }
+}
